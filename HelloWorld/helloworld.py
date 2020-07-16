@@ -1,0 +1,6 @@
+print('Hello, World!')
+print(10+20)
+print(5*5)
+print(10-20)
+print()
+print('Thank you','Learn Python',1+2)
